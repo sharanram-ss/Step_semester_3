@@ -1,0 +1,94 @@
+[33maf57d1f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/session_7[m[33m, [m[1;31morigin/feature/session_7[m[33m)[m HEAD@{0}: checkout: moving from feature/session_8 to feature/session_7
+[33m660835d[m[33m ([m[1;31morigin/feature/session_8[m[33m, [m[1;32mfeature/session_8[m[33m)[m HEAD@{1}: checkout: moving from feature/session_7 to feature/session_8
+[33maf57d1f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/session_7[m[33m, [m[1;31morigin/feature/session_7[m[33m)[m refs/remotes/origin/feature/session_7@{0}: update by push
+[33maf57d1f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/session_7[m[33m, [m[1;31morigin/feature/session_7[m[33m)[m refs/heads/feature/session_7@{0}: commit: Remove Week 6 from Session 7
+[33maf57d1f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/session_7[m[33m, [m[1;31morigin/feature/session_7[m[33m)[m HEAD@{2}: commit: Remove Week 6 from Session 7
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m HEAD@{3}: checkout: moving from feature/session_8 to feature/session_7
+[33m660835d[m[33m ([m[1;31morigin/feature/session_8[m[33m, [m[1;32mfeature/session_8[m[33m)[m HEAD@{4}: checkout: moving from feature/session_7 to feature/session_8
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m HEAD@{5}: checkout: moving from feature/session_8 to feature/session_7
+[33m660835d[m[33m ([m[1;31morigin/feature/session_8[m[33m, [m[1;32mfeature/session_8[m[33m)[m refs/remotes/origin/feature/session_8@{0}: update by push
+[33m660835d[m[33m ([m[1;31morigin/feature/session_8[m[33m, [m[1;32mfeature/session_8[m[33m)[m refs/heads/feature/session_8@{0}: commit: Add Week 8 assignment problems
+[33m660835d[m[33m ([m[1;31morigin/feature/session_8[m[33m, [m[1;32mfeature/session_8[m[33m)[m HEAD@{6}: commit: Add Week 8 assignment problems
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m refs/heads/feature/session_8@{1}: branch: Created from HEAD
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m HEAD@{7}: checkout: moving from feature/session_7 to feature/session_8
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m refs/remotes/origin/feature/session_7@{1}: update by push
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m refs/heads/feature/session_7@{1}: branch: Created from HEAD
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m HEAD@{8}: checkout: moving from feature/session_6 to feature/session_7
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m refs/remotes/origin/feature/session_6@{0}: update by push
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m refs/heads/feature/session_6@{0}: commit: Fix Week 6 class problems folder
+[33m5ec9472[m[33m ([m[1;31morigin/feature/session_6[m[33m, [m[1;32mfeature/session_6[m[33m)[m HEAD@{9}: commit: Fix Week 6 class problems folder
+[33mbb4b8c1[m HEAD@{10}: checkout: moving from feature/session_6 to feature/session_6
+[33mbb4b8c1[m refs/remotes/origin/feature/session_6@{1}: update by push
+[33mbb4b8c1[m refs/heads/feature/session_6@{1}: commit: Add Week 6 class and assignment problems
+[33mbb4b8c1[m HEAD@{11}: commit: Add Week 6 class and assignment problems
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/remotes/origin/feature/session_6@{2}: update by push
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/heads/feature/session_6@{2}: reset: moving to develop
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{12}: reset: moving to develop
+[33m3dfe6c1[m[33m ([m[1;31morigin/feature/session_5[m[33m, [m[1;32mfeature/session_5[m[33m)[m refs/remotes/origin/feature/session_6@{3}: update by push
+[33m3dfe6c1[m[33m ([m[1;31morigin/feature/session_5[m[33m, [m[1;32mfeature/session_5[m[33m)[m refs/heads/feature/session_6@{3}: branch: Created from HEAD
+[33m3dfe6c1[m[33m ([m[1;31morigin/feature/session_5[m[33m, [m[1;32mfeature/session_5[m[33m)[m HEAD@{13}: checkout: moving from feature/session_5 to feature/session_6
+[33m3dfe6c1[m[33m ([m[1;31morigin/feature/session_5[m[33m, [m[1;32mfeature/session_5[m[33m)[m refs/remotes/origin/feature/session_5@{0}: update by push
+[33m3dfe6c1[m[33m ([m[1;31morigin/feature/session_5[m[33m, [m[1;32mfeature/session_5[m[33m)[m refs/heads/feature/session_5@{0}: commit: Add Week 5 assigment problems
+[33m3dfe6c1[m[33m ([m[1;31morigin/feature/session_5[m[33m, [m[1;32mfeature/session_5[m[33m)[m HEAD@{14}: commit: Add Week 5 assigment problems
+[33m8f60c72[m refs/remotes/origin/feature/session_5@{1}: update by push
+[33m8f60c72[m refs/heads/feature/session_5@{1}: commit: Add Week 5 class problems
+[33m8f60c72[m HEAD@{15}: commit: Add Week 5 class problems
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/heads/feature/session_5@{2}: branch: Created from HEAD
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{16}: checkout: moving from develop to feature/session_5
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{17}: checkout: moving from feature/session_4 to develop
+[33m7486aa8[m[33m ([m[1;31morigin/feature/session_4[m[33m, [m[1;32mfeature/session_4[m[33m)[m refs/remotes/origin/feature/session_4@{0}: update by push
+[33m7486aa8[m[33m ([m[1;31morigin/feature/session_4[m[33m, [m[1;32mfeature/session_4[m[33m)[m refs/heads/feature/session_4@{0}: commit: Add Week 4 class and assignment problems
+[33m7486aa8[m[33m ([m[1;31morigin/feature/session_4[m[33m, [m[1;32mfeature/session_4[m[33m)[m HEAD@{18}: commit: Add Week 4 class and assignment problems
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/heads/feature/session_4@{1}: branch: Created from HEAD
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{19}: checkout: moving from develop to feature/session_4
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{20}: checkout: moving from feature/session_3 to develop
+[33m5674ec8[m[33m ([m[1;31morigin/feature/session_3[m[33m, [m[1;32mfeature/session_3[m[33m)[m refs/remotes/origin/feature/session_3@{0}: update by push
+[33m5674ec8[m[33m ([m[1;31morigin/feature/session_3[m[33m, [m[1;32mfeature/session_3[m[33m)[m refs/heads/feature/session_3@{0}: commit: Remove Week 1 files from session 3
+[33m5674ec8[m[33m ([m[1;31morigin/feature/session_3[m[33m, [m[1;32mfeature/session_3[m[33m)[m HEAD@{21}: commit: Remove Week 1 files from session 3
+[33m943c2f8[m refs/remotes/origin/feature/session_3@{1}: update by push
+[33m943c2f8[m refs/heads/feature/session_3@{1}: commit: Add Week 3 class problems
+[33m943c2f8[m HEAD@{22}: commit: Add Week 3 class problems
+[33m490103c[m refs/remotes/origin/feature/session_3@{2}: update by push
+[33m490103c[m refs/heads/feature/session_3@{2}: revert: Revert "Add Week 1 class problems"
+[33m490103c[m HEAD@{23}: revert: Revert "Add Week 1 class problems"
+[33m257fb97[m HEAD@{24}: checkout: moving from feature/session_2 to feature/session_3
+[33m6b066e9[m[33m ([m[1;31morigin/feature/session_2[m[33m, [m[1;32mfeature/session_2[m[33m)[m HEAD@{25}: checkout: moving from feature/session_3 to feature/session_2
+[33m257fb97[m HEAD@{26}: checkout: moving from feature/session_2 to feature/session_3
+[33m6b066e9[m[33m ([m[1;31morigin/feature/session_2[m[33m, [m[1;32mfeature/session_2[m[33m)[m refs/remotes/origin/feature/session_2@{0}: update by push
+[33m6b066e9[m[33m ([m[1;31morigin/feature/session_2[m[33m, [m[1;32mfeature/session_2[m[33m)[m refs/heads/feature/session_2@{0}: commit: Add Week 2 class and assignment problems
+[33m6b066e9[m[33m ([m[1;31morigin/feature/session_2[m[33m, [m[1;32mfeature/session_2[m[33m)[m HEAD@{27}: commit: Add Week 2 class and assignment problems
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{28}: checkout: moving from feature/session_2 to feature/session_2
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{29}: checkout: moving from feature/session_1 to feature/session_2
+[33m3a58c1b[m[33m ([m[1;31morigin/feature/session_1[m[33m, [m[1;32mfeature/session_1[m[33m)[m refs/remotes/origin/feature/session_1@{0}: update by push
+[33m3a58c1b[m[33m ([m[1;31morigin/feature/session_1[m[33m, [m[1;32mfeature/session_1[m[33m)[m refs/heads/feature/session_1@{0}: cherry-pick: Add Week 1 class problems
+[33m3a58c1b[m[33m ([m[1;31morigin/feature/session_1[m[33m, [m[1;32mfeature/session_1[m[33m)[m HEAD@{30}: cherry-pick: Add Week 1 class problems
+[33m1ff7812[m HEAD@{31}: checkout: moving from feature/session_2 to feature/session_1
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{32}: checkout: moving from develop to feature/session_2
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{33}: checkout: moving from feature/session_2 to develop
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/heads/feature/session_2@{1}: branch: Created from HEAD
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{34}: checkout: moving from develop to feature/session_2
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{35}: checkout: moving from feature/session_3 to develop
+[33m257fb97[m refs/remotes/origin/feature/session_3@{3}: update by push
+[33m257fb97[m refs/heads/feature/session_3@{3}: commit: Add Week 1 class problems
+[33m257fb97[m HEAD@{36}: commit: Add Week 1 class problems
+[33m96c890b[m refs/remotes/origin/feature/session_3@{4}: update by push
+[33m96c890b[m refs/heads/feature/session_3@{4}: commit: Add Week 3 assignment solutions
+[33m96c890b[m HEAD@{37}: commit: Add Week 3 assignment solutions
+[33m1ff7812[m refs/heads/feature/session_3@{5}: Branch: renamed refs/heads/feature/session_2 to refs/heads/feature/session_3
+[33m1ff7812[m HEAD@{38}: Branch: renamed refs/heads/feature/session_2 to refs/heads/feature/session_3
+[33m1ff7812[m refs/heads/feature/session_3@{6}: branch: Created from HEAD
+[33m1ff7812[m HEAD@{40}: checkout: moving from feature/session_1 to feature/session_2
+[33m1ff7812[m refs/remotes/origin/feature/session_1@{1}: update by push
+[33m1ff7812[m refs/heads/feature/session_1@{1}: commit: Add Week 1 assignment solutions
+[33m1ff7812[m HEAD@{41}: commit: Add Week 1 assignment solutions
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/remotes/origin/feature/session_1@{2}: update by push
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/heads/feature/session_1@{2}: branch: Created from HEAD
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{42}: checkout: moving from develop to feature/session_1
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/remotes/origin/develop@{0}: update by push
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/heads/develop@{0}: commit: Add empty Java project structure
+[33m4094335[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{43}: commit: Add empty Java project structure
+[33m025a90f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m refs/heads/develop@{1}: branch: Created from HEAD
+[33m025a90f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{44}: checkout: moving from main to develop
+[33m025a90f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m refs/heads/main@{0}: clone: from https://github.com/sharanram-ss/Step_semester_3.git
+[33m025a90f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m refs/remotes/origin/HEAD@{0}: clone: from https://github.com/sharanram-ss/Step_semester_3.git
+[33m025a90f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{45}: clone: from https://github.com/sharanram-ss/Step_semester_3.git
